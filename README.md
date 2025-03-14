@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @dushyant10111
-- 👀 I’m interested in Anything related to website animation like awwwards, apple product pages.
+- 👋 Hi, I’m Dushyant Sharma.
+- 👀 I’m interested in Anything related to website animation, like Awwwards and Apple product pages.
 - 🌱 I’m currently learning GSAP, three.js
 - 💞️ I’m looking to collaborate on Animation
 - 📫 How to reach me dushyant.sunnysharma@gmail.com
